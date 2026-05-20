@@ -1,8 +1,8 @@
 {
-  "wifi_ssid": "your_wifi",
-  "wifi_key": "your_password",
-  "wifi_on": false,
-  "wifi_ap_mode": false,
+  "wifi_ssid": "ItHertzWhenIP",
+  "wifi_key": "betternews613",
+  "wifi_on": true,
+  "wifi_ap_mode": true,
   "ap_ssid": "EOM",
   "ap_password": "",
   "ap_channel": 1,
